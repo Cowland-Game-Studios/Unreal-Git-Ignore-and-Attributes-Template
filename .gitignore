@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Build
 .vscode
 .vs
 *.VC.db
@@ -12,4 +13,3 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-BSGO/Content/StarterContent
